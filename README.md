@@ -4,4 +4,4 @@ In deze repo bevinden zich alle POC's inclusief reflectie van iedere projectweek
 
 In het onderstaande overzicht staan de links naar de POC per week.
 
-- Week2 [Link](https://github.com/ramonschriks/I-M-MPROJECT/tree/master/week2)
+- Week 2 (1.Firebase & 2.Graphs) --> [Link](/week2/poc.md)
