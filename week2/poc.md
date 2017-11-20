@@ -23,7 +23,9 @@ Ik zelf heb geen ervaring met Firebase en vond het daarom een leuke uitdaging om
 
 
 * **testopzet:**  
-Aangezien al bekend was dat Google Firebase authenticatie in iOS (Swift) werkt (volgends de Google documentatie), was het een kwestie van implementeren.
+Aangezien al bekend was dat Google Firebase authenticatie in iOS (Swift) werkt (volgends de Google documentatie), was het een kwestie van implementeren van de UI (login buttons, text velden voor email/wachtwoord), en vervolgens de API gebruiken van Firebase die het mogelijk maakt om in te loggen met input credentials, en uit te loggen. 
+
+Errors die in Firebase heeft, moeten zelf afgehandeld worden in de UI. Dit heb ik in deze testopzet gedaan adhv. een simpel textveld die aangeeft of er wel of niet ingelogged kan worden.
  
 * **resultaat:**  
 De werkende applicatie toont aan om een eenvoudige Firebase authenticatie met gebruik van email/wachtwoord te implementeren in een iOS applicatie. De applicatie heeft een connectie met Google Firebase die de authenticatie beheerd en de gebruikers in beheer heeft.
