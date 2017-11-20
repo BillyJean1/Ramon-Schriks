@@ -14,11 +14,13 @@ De code hiervoor staat in "/poc/poc_Firebase"
 poc_Firebase
 ----------------
 * **hypothese:**
+
 Het idee van deze tech is dat er een werkende testopstelling is gemaakt van een login authenticatie voor een eventuele applicatie. Aangezien het idee van de opdrachtgever onder andere omvat dat er gebruikers bestaan met een puntensysteem, waarin gebruikers punten kunnen sparen, is het logischerwijs een gevolg om hiervoor user authentication voor te gebruiken. 
 
 Met Google Firebase kan men eenvoudig authenticatie instellen binnen een applicatie, zonder het inrichten en beheren van een eigen infrastructuur. Denk hierbij aan databases, servers en veel code om authenticatie mogelijk te maken. Dit beheerd  Firebase namelijk.
 
 Ik zelf heb geen ervaring met Firebase en vond het daarom een leuke uitdaging om deze tech werkend te krijgen in een iOS applicatie. 
+
 
 * **testopzet:**  
 Aangezien al bekend was dat Google Firebase authenticatie in iOS (Swift) werkt (volgends de Google documentatie), was het een kwestie van implementeren.
