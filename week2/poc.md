@@ -1,20 +1,30 @@
 Beschrijving van de PoC's
 ==========================
 
-Geef een beschrijving van de test die je gedaan hebt met elk Proof of Concept. Voeg 
- de code ook toe in de map **code**.
+**Firebase**:
+Hiervoor heb ik een Proof-of-Concept gemaakt in iOS (Swift). De applicatie bevat een login scherm waarmee een gebruiker kan inloggen indien deze een account heeft. Indien geen account, kan er een account worden aangemaakt en kan men vervolgens inloggen.
+
+De code hiervoor staat in "/poc/poc_Firebase"
+
+
+*Graphs*:
+
+
  
-Naam van de POC 1
+poc_Firebase
 ----------------
-* **hypothese:**  
-Korte beschrijving van de veronderstelling
+* **hypothese:**
+Het idee van deze tech is dat er een werkende testopstelling is gemaakt van een login authenticatie voor een eventuele applicatie. Aangezien het idee van de opdrachtgever onder andere omvat dat er gebruikers bestaan met een puntensysteem, waarin gebruikers punten kunnen sparen, is het logischerwijs een gevolg om hiervoor user authentication voor te gebruiken. 
+
+Met Google Firebase kan men eenvoudig authenticatie instellen binnen een applicatie, zonder het inrichten en beheren van een eigen infrastructuur. Denk hierbij aan databases, servers en veel code om authenticatie mogelijk te maken. Dit beheerd  Firebase namelijk.
+
+Ik zelf heb geen ervaring met Firebase en vond het daarom een leuke uitdaging om deze tech werkend te krijgen in een iOS applicatie. 
 
 * **testopzet:**  
-Korte beschrijving van de manier van testen 
+Aangezien al bekend was dat Google Firebase authenticatie in iOS (Swift) werkt (volgends de Google documentatie), was het een kwestie van implementeren.
  
 * **resultaat:**  
-Beschrijf in hoeverre de test uitsluitsel heeft gegeven 
-over de hypothese
+De werkende applicatie toont aan om een eenvoudige Firebase authenticatie met gebruik van email/wachtwoord te implementeren in een iOS applicatie. De applicatie heeft een connectie met Google Firebase die de authenticatie beheerd en de gebruikers in beheer heeft.
 
 
 Naam van de POC 2
