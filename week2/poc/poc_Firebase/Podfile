@@ -6,5 +6,9 @@ target 'poc_Firebase' do
   use_frameworks!
 
   # Pods for poc_Firebase
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
 
 end
+
+

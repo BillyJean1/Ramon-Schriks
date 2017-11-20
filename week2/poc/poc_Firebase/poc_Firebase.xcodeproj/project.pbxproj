@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		27EB68B023897E8FAAF751A2 /* Pods_poc_Firebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B717EB1D1DFE8812AD8F2C96 /* Pods_poc_Firebase.framework */; };
+		5B4C59F91FC2EE64002480D4 /* LoggedInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4C59F81FC2EE64002480D4 /* LoggedInViewController.swift */; };
 		5B6F9B501FC2CEFB00BAA23B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6F9B4F1FC2CEFB00BAA23B /* AppDelegate.swift */; };
 		5B6F9B521FC2CEFB00BAA23B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6F9B511FC2CEFB00BAA23B /* ViewController.swift */; };
 		5B6F9B551FC2CEFB00BAA23B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B6F9B531FC2CEFB00BAA23B /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B4C59F81FC2EE64002480D4 /* LoggedInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggedInViewController.swift; sourceTree = "<group>"; };
 		5B6F9B4C1FC2CEFB00BAA23B /* poc_Firebase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = poc_Firebase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B6F9B4F1FC2CEFB00BAA23B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B6F9B511FC2CEFB00BAA23B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				5B6F9B4F1FC2CEFB00BAA23B /* AppDelegate.swift */,
 				5B6F9B511FC2CEFB00BAA23B /* ViewController.swift */,
+				5B4C59F81FC2EE64002480D4 /* LoggedInViewController.swift */,
 				5B6F9B531FC2CEFB00BAA23B /* Main.storyboard */,
 				5B6F9B561FC2CEFB00BAA23B /* Assets.xcassets */,
 				5B6F9B581FC2CEFB00BAA23B /* LaunchScreen.storyboard */,
@@ -169,9 +172,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-poc_Firebase/Pods-poc_Firebase-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -202,9 +212,12 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-poc_Firebase/Pods-poc_Firebase-resources.sh",
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseAuthUI.bundle,
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -218,6 +231,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B4C59F91FC2EE64002480D4 /* LoggedInViewController.swift in Sources */,
 				5B6F9B521FC2CEFB00BAA23B /* ViewController.swift in Sources */,
 				5B6F9B501FC2CEFB00BAA23B /* AppDelegate.swift in Sources */,
 			);
