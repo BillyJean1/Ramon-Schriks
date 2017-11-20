@@ -10,7 +10,9 @@ De code hiervoor staat in "/poc/poc_Firebase"
 **Heatmap**:
 Voor deze POC is er een simpele applicatie gemaakt met een map weergave van Efteling, waarbij een enkele attractie op is voorzien van een "heat" op de betreffende map.
 
-Zie screenshot: [logo]: /screenshots/heatmap
+Zie screenshot:
+![alt text](/screenshot/heatmap.jpeg "Heatmap Efteling (Baron)")
+
 
  
 poc_Firebase
