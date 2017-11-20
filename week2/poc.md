@@ -7,8 +7,10 @@ Hiervoor heb ik een Proof-of-Concept gemaakt in iOS (Swift). De applicatie bevat
 De code hiervoor staat in "/poc/poc_Firebase"
 
 
-*Graphs*:
+**Heatmap**:
+Voor deze POC is er een simpele applicatie gemaakt met een map weergave van Efteling, waarbij een enkele attractie op is voorzien van een "heat" op de betreffende map.
 
+Zie screenshot: [logo]: /screenshots/heatmap.jpeg
 
  
 poc_Firebase
@@ -34,11 +36,10 @@ De werkende applicatie toont aan om een eenvoudige Firebase authenticatie met ge
 Naam van de POC 2
 ----------------
 * **hypothese:**  
-Korte beschrijving van de veronderstelling
+Om de drukte te kunnen tonen in een applicatie, kan er gebruik gemaakt worden van een map weergeve, met een overlay die de drukte aangeeft. Dit kan met een zogeheten "Heatmap". In het Billy Jean project, waar Crowd-control het hoofdonderwerp betreft, kan het prettig zijn om ook bij bepaalde attracties (in de context van een pretpark) de drukte te kunnen inzien.
 
 * **testopzet:**  
-Korte beschrijving van de manier van testen
+Deze test applicatie (Proof of concept) betreft een implementatie van een dergelijke Heatmap met als voorbeeld de Efteling. In de heatmap is in deze situatie slechts de Baron (een bepaalde attractie) als voorbeeld genenomen om hiervan een Heatmap te tonen.
  
 * **resultaat:**  
-Beschrijf in hoeverre de test uitsluitsel heeft gegeven 
-over de hypothese
+De werkende applicatie toont de heatmap voor een bepaald punt in het pretpark, en zou in het project verder uitgewerkt kunnen worden zodat het hele park wordt gedekt. Hiervoor is echter wel realtime data voor nodig in de vorm van GPS coordinaten. De beheerders van bijvoorbeeld een pretpark dienen dit dan zelf aan te leveren.
