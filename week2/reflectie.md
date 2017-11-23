@@ -28,6 +28,6 @@ Dit is de eerste reflectieweek. Volgende week (week3) zal er worden gereflecteer
 >Daarnaast heb ik mijzelf lichtelijk geergerd aan het feit dat ik de individuele PoC onderzoeken perse binnen 1 dag wilde afronden, en andere mensen binnen onze projectgroep er veel langer over hebben gedaan. Mocht dit blijven aanhouden, dan komt het project natuurlijk in tijdsnood. Echter verwacht ik van mijn collega's dat als in de komende weken veel te doen is voor het project, dat de onderzoeken ook wat kleiner worden gemaakt waardoor dit niet meer gebeurd.
  
 3. Wat ga je komende proberen te verbeteren?
-> 
+> Ik heb het gevoel dat we (als projectgroep) niet enorm veel progressie hebben geboekt deze week. Aangezien dit de concepting fase is, en we deze week nog niet helemaal een concept hebben, zou ik volgende week graag deliverables willen zien in de vorm van de 2 geplande concepten. Ik hierzelf meer op toezien dat we richting deliverables gaan toewerken.
 
 
