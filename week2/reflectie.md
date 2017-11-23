@@ -26,6 +26,8 @@ Dit is de eerste reflectieweek. Volgende week (week3) zal er worden gereflecteer
 >In het begin had ik hier nog wel wat moeite mee aangezien ik lichtelijk uit mijn comfortzone werd "geduwd". Normaliter zou ik beginnen met ontwerpen en dit voorleggen aan de opdrachtgever, terwijl het nu echt de opdracht is om juist uit te zoeken of datgene wat de opdrachtgever wil, ook daadwerkelijk de oplossing is van wat hij wil.
 
 >Daarnaast heb ik mijzelf lichtelijk geergerd aan het feit dat ik de individuele PoC onderzoeken perse binnen 1 dag wilde afronden, en andere mensen binnen onze projectgroep er veel langer over hebben gedaan. Mocht dit blijven aanhouden, dan komt het project natuurlijk in tijdsnood. Echter verwacht ik van mijn collega's dat als in de komende weken veel te doen is voor het project, dat de onderzoeken ook wat kleiner worden gemaakt waardoor dit niet meer gebeurd.
+
+>Ook vind ik het erg nadelig dat er maarliefst 2 POC onderzoeken per week uitgewerkt moeten worden. Dit betekend dat er 14 POC onderzoeken uiteindelijk worden opgeleverd. Ik vind het namelijk niet nuttig om zoveel onderzoeken te bedenken en zou het prettiger en tegelijktijd ook nuttiger vinden om het bij 1 POC onderzoek per week te houden (ook qua tijdsbesteding is dit effecienter).
  
 3. Wat ga je komende proberen te verbeteren?
 > Ik heb het gevoel dat we (als projectgroep) niet enorm veel progressie hebben geboekt deze week. Aangezien dit de concepting fase is, en we deze week nog niet helemaal een concept hebben, zou ik volgende week graag deliverables willen zien in de vorm van de 2 geplande concepten. Ik hierzelf meer op toezien dat we richting deliverables gaan toewerken.
