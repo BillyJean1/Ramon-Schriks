@@ -1,0 +1,6 @@
+framework module Pods_poc_GPSTracker {
+  umbrella header "Pods-poc_GPSTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
