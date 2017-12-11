@@ -10,3 +10,9 @@ In week4 heb ik onderzocht hoe het mogelijk gemaakt kan worden om 'Remote' Push 
 
 Als aanvulling hierop, wil ik deze week Locale Push Notificaties gaan testen in de praktijk. Deze notificaties gebeuren slechts lokaal en hoeft niet opgezet te worden via het Developer Account van Apple. 
 
+
+2. iOS (Swift) Background timers [Link naar bron 2](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/BackgroundExecution/BackgroundExecution.html)
+Dit is een uitbreiding op de bovenstaande POC. Het kan voor de Billy Jean applicatie wellicht interessant zijn om bijvoorbeeld per een x aantal seconden/minuten/uren automatisch een notificatie naar de gebruiker te sturen zodat zij verleidt worden om de app te openen. 
+
+Dit kan worden bereikt met behulp van Background timers. Ik ga dit implementeren en uitwerken met als basis de POC zoals hierboven staat beschreven. Bij de implementatie wordt er dan om de x aantal minuten bijvoornbeeld een notificatie gestuurd.
+
