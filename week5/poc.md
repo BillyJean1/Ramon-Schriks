@@ -15,6 +15,8 @@ In deze POC moet ik kunnen aantonen dat het mogelijk moet zijn om lokaal notific
 Het maken van een mobiele applicatie in Swift(iOS). Vervolgens wordt de NotificationCenter api van swift benaderd om een notificatie te sturen.
 
 Ik wil hiervoor een simpele app in Swift ontwikkelen die bij het starten van de app, binnen enkele seconden de gebruiker een notificatie stuurt.
+
+Zie screenshot:[Link](/week5/screenshots/notification.jpeg)
  
 * **resultaat:**  
 De app heeft geen UI, slechts een wit scherm. Ik heb een aparte Service gemaakt binnen de app om simpel notificaties te kunnen versturen. Deze service roep ik aan in de ViewController die bij het starten van de app direct wordt initieerd.
