@@ -8,8 +8,8 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
  
 
 ### Vorige week
-Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
-> Vorige week had ik vooral als doel om deze week minder te gaan "flauwekullen" en mensen hierop aanspreken. Hoewel er voor mijn gevoel veel en gezellig is "geflauwekult" bij vlagen, vind ik niet dat dit invloed heeft gehad op het gemaakte werk.
+0. Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
+Vorige week had ik vooral als doel om deze week minder te gaan "flauwekullen" en mensen hierop aanspreken. Hoewel er voor mijn gevoel veel en gezellig is "geflauwekult" bij vlagen, vind ik niet dat dit invloed heeft gehad op het gemaakte werk.
 
 Ik zal dan ook de doelen van vorige week doortrekken op volgende week.
 
