@@ -9,6 +9,7 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 
 ### Vorige week
 0. Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
+
 Vorige week had ik vooral als doel om deze week minder te gaan "flauwekullen" en mensen hierop aanspreken. Hoewel er voor mijn gevoel veel en gezellig is "geflauwekult" bij vlagen, vind ik niet dat dit invloed heeft gehad op het gemaakte werk.
 
 Deze week zijn we serieuzer van start gegaan dan voorgaande weken. We zijn als groep direct gestart met het uitwerken van taken voor voor de sprint. Vervolgens hebben we sprintdoelen gesteld aan de twee-weekse sprint die einde week 6 eindigd. 
