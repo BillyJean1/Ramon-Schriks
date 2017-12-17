@@ -11,17 +11,35 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 0. Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
 Vorige week had ik vooral als doel om deze week minder te gaan "flauwekullen" en mensen hierop aanspreken. Hoewel er voor mijn gevoel veel en gezellig is "geflauwekult" bij vlagen, vind ik niet dat dit invloed heeft gehad op het gemaakte werk.
 
-Ik zal dan ook de doelen van vorige week doortrekken op volgende week.
+Deze week zijn we serieuzer van start gegaan dan voorgaande weken. We zijn als groep direct gestart met het uitwerken van taken voor voor de sprint. Vervolgens hebben we sprintdoelen gesteld aan de twee-weekse sprint die einde week 6 eindigd. 
+
+Er is minder "geouwehoert" en waardoor we logischerwijs ook meer resultaat hebben geboekt dan in alle voorgaande weken. Ik ben  tevreden met het resultaten waarin we momenteel dus een prima balans tussen serieus werken en zo nu en dan een grapje maken hebben gevonden.
+
 
 ### Afgelopen week
 
 1. Wat ging er afgelopen week goed?
-We zijn gezamenlijk tot concrete keuzes gekomen die we hebben verwerkt in het functionele ontwerp. Het functionele ontwerp, zoals deze nu is (week4), is bij iedereen helder en is gezamenlijk tot stand gekomen. Ik ben van mening dat iedereen redelijk op een lijn zit betreft de visie voor de applicatie die ontwikkeld gaat worden. Daarnaast is het ook zo, dat als er discussies zijn, wij er als groep redelijk snel uitkomen op een positieve manier zodat iedereen ook echt het gevoel heeft de juiste keuze gemaakt te hebben. 
+De taken die we hebben gemaakt voor de sprintplanning betroffen taken zoals uitwerken en implementeren van de Use Cases (vastgesteld in het functioneel ontwerp), tot taken waarbij diverse ontwerpdocumentatie gereviewed moet worden. We hebben deze taken zodanig opgesteld dat er een checklist aanwezig is waarbij andere projectleden ook de voortgang hiervan konden zien.
+
+We zijn van start gegaan met het maken van de eerste 2 usecase; "Inloggen" en "Inchecken", waarbij er allereerst diagrammen zijn ontworpen op het whiteboard. Het prettige hieraan vond is dat iedereen hierdoor een bijdrage heeft aan de invulling van de diagrammen, en dat er dus openbaar wordt gediscussieerd hierover. 
+
+De volgende taken heb ik afgelopen week persoonlijk gedaan of in groepsverband:
+- Opstellen takenlijst
+- Prioriteren takenlijst op correcte volgorde van uitwerken
+- Maken SCRUM board met diverse borden voor "Backlog, Sprint, Dev (momenteel bezig), Review en Done"
+- {Groepstaak} Ontwerpen (System) Sequence Diagrams
+- {Pair-programming met Zoë} Implementatie Inloggen via Facebook met Firebase
+- {Eigen taak} Opzetten GIT repo
+- {Eigen taak} Opzetten XCode project waarbij projectnaam en developmentteam correct worden vastgesteld
+- {Eigen taak} Opzetten Firebase project gelinkt aan XCode project met authenticatie
+
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
-Ik heb mijzelf deze week minder geergerd als andere weken. Misschien heb ik mijzelf vaker dan ik wilde mee laten slepen in "flauwekullen" en gezelligheid, maar dit heeft dus niet geleid tot een mindere teamprestatie van deze week. Met andere woorden, de werkdruk van deze week was niet zo denderd hoog voor mijn gevoel. Echter ben ik wel van mening dat we deze lijn NIET moeten door trekken aangezien er nu wel wat meer "serieuzere" projectweken aan zitten te komen. Kortom, de tijd van ouwehoeren is voorbij, tijd om serieus aan de slag te gaan. Overigens ben ik wel van mening dat iedereen er zo over denkt, en dat dit dus niet echt een probleem gaat worden.
+Ik vond deze week dat er niet zoveel (amper) mis ging. Alle groepstaken zijn zelfs beter verlopen dan verwacht en ik zag nu pas het nut van de individuele onderzoeken (POC's), waarbij POC uitwerkingen gebruikt konden worden in de app.
+
+Als ik dan toch kritisch moet kijken naar mijn eigen functioneren, is dat er nog teveel taken in het scrumboard zijn waarbij er geen "Checklist" voor is. Dus de taak heeft een naam, maar nog verder geen invulling wat hiervoor gedaan moet worden. Hoewel ik grotendeels alle wel ingevulde taken heb ingevuld, wil ik ook meer proberen te delegeren dat andere projectleden deze invulling verzorgen.
  
 3. Wat ga je komende proberen te verbeteren?
-> De lijn van vorige week (de doelen) doortrekken. Dus, minder ouwehoeren en zorgen dat er serieus gewerkt wordt aan het project met als doel aan het einde van de projectweek trots te zijn over het resultaat dat wij deze week geboekt hebben. Een beetje ouwehoeren kan, maar we moeten wel weten wanneeer te stoppen.
+Dit sluit eigenlijk aan op punt 2., waarbij is al een verbeterpunt heb beschreven.
 
 
