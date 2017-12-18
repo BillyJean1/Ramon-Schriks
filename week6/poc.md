@@ -30,8 +30,18 @@ Naam van de POC 2
 ----------------
 * **hypothese:**  
 
+In deze POC ga ik de UI implementeren zoals deze is ontworpen door andere projectleden. Aan de hand van de betreffende UI, wil ik 1-op-1 het design, inclusief de elementen uit het design, in de applicatie implementeren.
+
+Het design die ik hiervoor ga gebruiken betreft: "Inloggen met Email".
+
+De POC wordt direct in de Billy Jean applicatie geimplementeerd aangezien de designs hiervoor al gedeeltelijk klaar zijn, en ik dus direct ook bijdrage lever aan de applicatie.
 
 * **testopzet:**  
 
+Ik wil allereerst de losse elementen uit de designs implementeren in het storyboard van de applicatie. Vervolgens ga ik de destails (afmetingen, witruimtes en overige constraints) toepassen op deze elementen. 
  
 * **resultaat:**  
+
+De UI is geimplementeerd in de app. Het design bleek simpeler te implementeren dan verwacht, maar dat komt ook mede doordat het design redelijk basic was. Bij toekomstige design implementaties wordt het meer werk om alle elemeneten exact volgens design te implementeren aangezien de komende designs wat complexer zijn (meer elementen en meer details).
+
+Zie UI:[Link](/week6/poc/poc_UIImplementatie)
