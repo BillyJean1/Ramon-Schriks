@@ -5,16 +5,18 @@ Geef hier de link naar de nieuwe tech die je deze week hebt gevonden.
 Je mag tech opvoeren waarvan je denkt dat het direct relevant is voor het (huidige) concept, of bronnen naar 
   tech die je interessant vindt.
 
-1. iOS (Swift) Local Notifications [link naar bron 1](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/SchedulingandHandlingLocalNotifications.html)  
+1. iOS (Swift) UI Tests [link naar bron 1](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)  
 
-In week4 heb ik onderzocht hoe het mogelijk gemaakt kan worden om 'Remote' Push notificaties te kunnen versturen naar een iOS applicatie. Helaas is dat onderzoek (POC) gestrand door een beperking in het Developer Account. 
+Voor de te ontwikkelen applicatie voor het Billy Jean project wordt er een iOS app gebouwd. De ontwikkeling hiervan vindt plaats in XCode.
 
-Als aanvulling hierop, wil ik deze week Locale Push Notificaties gaan testen in de praktijk. Deze notificaties gebeuren slechts lokaal en hoeft niet opgezet te worden via het Developer Account van Apple. 
+Om de kunnen testen dat functionaliteiten ook daadwerkelijk werken en om te streven naar een hogere kwaliteit, zijn tests onmisbaar. Met tests kunnen stukken functionaliteit uit de applicatie op werking en resultaat worden getest om zodoende te garanderen dat de applicatie nog steeds functioneerd nadat er bijvoorbeeld wijzigingen hebben plaatsgevonden.
+
+Aangezien ik nog totaal geén kennis heb van iOS/Swift testing, wil ik hiervoor een onderzoek/poc gaan uitwerken waarin ik voor een bestaande feature in de app (die al in ontwikkeling is) testen ga bouwen.
 
 
-2. iOS (Swift) Background timers [Link naar bron 2](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/BackgroundExecution/BackgroundExecution.html)
+2. Design implementeren in iOS app [Link naar bron 2]
+Voor deze POC ligt de focus op de UI van de applicatie. Voorheen was het belangrijk om uberhaubt een UI te hebben, maar maakte de positionering e.d niet zoveel uit aangezien het puur om de werking van de applicatie ging. 
 
-Dit is een uitbreiding op de bovenstaande POC. Het kan voor de Billy Jean applicatie wellicht interessant zijn om bijvoorbeeld per een x aantal seconden/minuten/uren automatisch een notificatie naar de gebruiker te sturen zodat zij verleidt worden om de app te openen. 
+Echter in dit multidisciplinaire project, worden er ook designs gemaakt voor de applicatie door de CMD-projectleden. Deze designs moeten uiteindelijk 1-op-1 in de applicatie worden geimplementeerd.
 
-Dit kan worden bereikt met behulp van Background timers. Ik ga dit implementeren en uitwerken met als basis de POC zoals hierboven staat beschreven. Bij de implementatie wordt er dan om de x aantal minuten bijvoornbeeld een notificatie gestuurd.
-
+Ik heb persoonlijk nog nooit vanuit een ontwerp een implementatie gemaakt, maar slechts een design gemaakt vanuit bestaande buttons/labels en andere UIT elementen die standaard beschikbaar zijn in XCode.
