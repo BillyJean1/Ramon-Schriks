@@ -11,7 +11,6 @@ import UserNotifications
 class NotificationService {
     let center = UNUserNotificationCenter.current()
     
-
     init() {
         initNotificationSetupCheck()
     }
