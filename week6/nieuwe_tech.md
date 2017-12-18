@@ -15,6 +15,7 @@ Aangezien ik nog totaal geén kennis heb van iOS/Swift testing, wil ik hiervoor 
 
 
 2. Design implementeren in iOS app [Link naar bron 2]
+
 Voor deze POC ligt de focus op de UI van de applicatie. Voorheen was het belangrijk om uberhaubt een UI te hebben, maar maakte de positionering e.d niet zoveel uit aangezien het puur om de werking van de applicatie ging. 
 
 Echter in dit multidisciplinaire project, worden er ook designs gemaakt voor de applicatie door de CMD-projectleden. Deze designs moeten uiteindelijk 1-op-1 in de applicatie worden geimplementeerd.
