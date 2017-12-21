@@ -12,10 +12,10 @@ In de BillyJean applicatie moet er gebruik gemaakt worden van een route implemen
 De implementatie zal plaatsvinden in de BillyJean applicatie.
 
 
-2. Design implementeren in iOS app [Link naar bron 2]
+2. Background Fetch - Location updates [Link naar bron 2]
 
-Voor deze POC ligt de focus op de UI van de applicatie. Voorheen was het belangrijk om uberhaubt een UI te hebben, maar maakte de positionering e.d niet zoveel uit aangezien het puur om de werking van de applicatie ging. 
+In de BillyJean applicatie moet er in de "background" geupdate worden zodra de gebruiker zich verplaatst. De applicatie moet vervolgens gaan berekenen of de gebruiker zich op de locatie bevind van de suggestie die is geaccepteerd.
 
-Echter in dit multidisciplinaire project, worden er ook designs gemaakt voor de applicatie door de CMD-projectleden. Deze designs moeten uiteindelijk 1-op-1 in de applicatie worden geimplementeerd.
+Het fetchen van background requests is al geimplementeerd, echter het verwerken van gegevens bij een update van de locatiegegevens is nog nieuw en zou moeten worden uitgezocht op welke manieren dit allemaal mogelijk is.
 
-Ik heb persoonlijk nog nooit vanuit een ontwerp een implementatie gemaakt, maar slechts een design gemaakt vanuit bestaande buttons/labels en andere UIT elementen die standaard beschikbaar zijn in XCode.
+De implementatie zal plaatsvinden in de BillyJean applicatie.
