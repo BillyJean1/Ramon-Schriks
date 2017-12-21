@@ -7,4 +7,5 @@ In het onderstaande overzicht staan de links naar de POC per week.
 - Week 2 (1.Firebase & 2.Graphs) --> [Link](/week2/poc.md)
 - Week 4 (1.GpsTracker & 2.Firebase Notificaitons) --> [Link](/week4/poc.md)
 - Week 5 (1.Local Notifications & 2. Background Tasking) --> [Link](/week5/poc.md)
-- Week 6 (1.XCode UI Tests & 2. ...) --> [Link](/week6/poc.md)
+- Week 6 (1.XCode UI Tests & 2. UI Implementatie) --> [Link](/week6/poc.md)
+- Week 7 (1.Google Maps SDK Route & 2. Background Fetch w/ location) --> [Link](/week7/poc.md)
