@@ -5,13 +5,11 @@ Geef hier de link naar de nieuwe tech die je deze week hebt gevonden.
 Je mag tech opvoeren waarvan je denkt dat het direct relevant is voor het (huidige) concept, of bronnen naar 
   tech die je interessant vindt.
 
-1. iOS (Swift) UI Tests [link naar bron 1](https://www.swiftbysundell.com/posts/getting-started-with-xcode-ui-testing-in-swift)  
+1. Google Maps SDK (iOS) Route [link naar bron 1](https://developers.google.com/maps/documentation/javascript/examples/polygon-simple)  
 
-Voor de te ontwikkelen applicatie voor het Billy Jean project wordt er een iOS app gebouwd. De ontwikkeling hiervan vindt plaats in XCode.
+In de BillyJean applicatie moet er gebruik gemaakt worden van een route implementatie om gebruikers van de huidige locatie naar de locatie van de suggestie te navigeren. Het maken en weergeven van de map is geen probleem en heb ik eerder uitgewerkt, echter het berekenen van de route tussen de twee locaties en het laten zien van de route is nieuw en vereist meer implementatie kennis. 
 
-Om de kunnen testen dat functionaliteiten ook daadwerkelijk werken en om te streven naar een hogere kwaliteit, zijn tests onmisbaar. Met tests kunnen stukken functionaliteit uit de applicatie op werking en resultaat worden getest om zodoende te garanderen dat de applicatie nog steeds functioneerd nadat er bijvoorbeeld wijzigingen hebben plaatsgevonden.
-
-Aangezien ik nog totaal geén kennis heb van iOS/Swift testing, wil ik hiervoor een onderzoek/poc gaan uitwerken waarin ik voor een bestaande feature in de app (die al in ontwikkeling is) testen ga bouwen.
+De implementatie zal plaatsvinden in de BillyJean applicatie.
 
 
 2. Design implementeren in iOS app [Link naar bron 2]
