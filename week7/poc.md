@@ -31,9 +31,9 @@ Oplossing 1: Na wat research moet de map "gecleared" worden van alle markers en 
 
 Uiteindelijk is de route weergave geimplementeerd en kunnen gebruiker van de applicatie voor een aanbeveling een route opvragen vanuit de huidige locatie.
 
-Screenshots: [Link](/week7/poc/poc_Route/)
+Code implementatie: [Link](/week7/poc/poc_Route/)
 
-Code implementatie: [Link](/week7/screenshots/poc_route.jpeg)
+Screenshot: [Link](/week7/screenshots/poc_route.jpeg)
 
 Naam van de POC 2
 ----------------
