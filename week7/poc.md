@@ -56,6 +56,6 @@ In de viewController waar momenteel de huidige aanbeveling wordt getoond, wordt 
 
 In de screenshot is de pushnotificatie te zien nadat een gebruiker is aangekomen op de doellocatie: [Link](/week7/screenshots/poc_background_location_1.jpeg)
 
-De code (viewController) die de locatie blijft updaten (methodenaam: *checkDestinationIsReached*: [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
+De code (viewController) die de locatie blijft updaten (methodenaam: *LocationManager (r:77)* (voor updates) en *startLocationUpdates (r:129)* (voor inschakelen achtergrond updates): [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
 
-De code die de controleert of de huidige locatie zich binnen de straal van de doellocatie bevind (methodenaam: *checkDestinationIsReached*: [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
+De code die de controleert of de huidige locatie zich binnen de straal van de doellocatie bevind (methodenaam: *checkDestinationIsReached*): [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
