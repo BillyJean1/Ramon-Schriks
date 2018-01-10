@@ -10,40 +10,36 @@ Beschrijf concrete aspecten van de samenwerking, geef aan in hoeverre je daar te
 ### Vorige week
 0. Wat wilde je vorige week ook alweer verbeteren en in hoeverre is dit gelukt? 
 
-Vorige week had ik vooral als doel om deze week minder te gaan "flauwekullen" en mensen hierop aanspreken. Hoewel er voor mijn gevoel veel en gezellig is "geflauwekult" bij vlagen, vind ik niet dat dit invloed heeft gehad op het gemaakte werk.
+Vorige week had ik al verbeterpunt dat ik meer controler wil krijgen over het scrumboard. Ik wou hiervoor nastreven dat andere projectleden zich meer gingen focussen op het verbeteren van de verduidelijking van de taken op het scrumboard.
 
-Deze week zijn we serieuzer van start gegaan dan voorgaande weken. We zijn als groep direct gestart met het uitwerken van taken voor voor de sprint. Vervolgens hebben we sprintdoelen gesteld aan de twee-weekse sprint die einde week 6 eindigd. 
-
-Er is minder "geouwehoert" en waardoor we logischerwijs ook meer resultaat hebben geboekt dan in alle voorgaande weken. Ik ben  tevreden met het resultaten waarin we momenteel dus een prima balans tussen serieus werken en zo nu en dan een grapje maken hebben gevonden.
+Ik heb deze week bewust ervoor gekozen om mijn handen af te trekken van het observeren hiervan om te kijken of er uberhaubt projectleden zijn die zich bezighouden met scrumboard. Dit is wel het geval. Het scrumboard wordt weliswaar niet perfect bijgehouden, maar wordt wel regelmatig geupdate. Hierbij worden taken in "progress" doorgevoerd naar "Review" of "Done".
 
 
 ### Afgelopen week
 
 1. Wat ging er afgelopen week goed?
 
-De taken die we hebben gemaakt voor de sprintplanning betroffen taken zoals uitwerken en implementeren van de Use Cases (vastgesteld in het functioneel ontwerp), tot taken waarbij diverse ontwerpdocumentatie gereviewed moet worden. We hebben deze taken zodanig opgesteld dat er een checklist aanwezig is waarbij andere projectleden ook de voortgang hiervan konden zien.
-
-We zijn van start gegaan met het maken van de eerste 2 usecase; "Inloggen" en "Inchecken", waarbij er allereerst diagrammen zijn ontworpen op het whiteboard. Het prettige hieraan vond is dat iedereen hierdoor een bijdrage heeft aan de invulling van de diagrammen, en dat er dus openbaar wordt gediscussieerd hierover. 
+We hebben als projectweek enorm veel progressie geboekt op gebied van de uitwerking en implementatie van de applicatie. Er zijn meerdere features geimplementeerd, en design (UI) verloopt ook erg goed. De stappen die deze week gemaakt zijn bieden een mooi perspectief voor de uiteindelijke oplevering van de applicatie. 
 
 De volgende taken heb ik afgelopen week persoonlijk gedaan of in groepsverband:
-- Opstellen takenlijst
-- Prioriteren takenlijst op correcte volgorde van uitwerken
-- Maken SCRUM board met diverse borden voor "Backlog, Sprint, Dev (momenteel bezig), Review en Done"
-- {Groepstaak} Ontwerpen (System) Sequence Diagrams
-- {Pair-programming met Zoë} Implementatie Inloggen via Facebook met Firebase
-- {Eigen taak} Opzetten GIT repo
-- {Eigen taak} Opzetten XCode project waarbij projectnaam en developmentteam correct worden vastgesteld
-- {Eigen taak} Opzetten Firebase project gelinkt aan XCode project met authenticatie
+**Implementatie aanbeveling doen (grote feature)**
 
+- Implementatie Google Maps
+- Implementatie tonen huidige locatie
+- Implementatie Aanbevelingen tonen op de kaart
+- Implementatie Tonen details van aanbeveling
+- Implementatie starten van de aanbeveling
+- Implementatie weergave afstande huidige locatie tot aan de doelbestemming
+- Implementatie "background fetching" om nieuwe aanbevelingen te kunnen tonen (Push notificitie)
 
 2. Wat ging er niet goed, waar heb je je aan geërgerd, wat moet er niet meer gebeuren?
 
-Ik vond deze week dat er niet zoveel (amper) mis ging. Alle groepstaken zijn zelfs beter verlopen dan verwacht en ik zag nu pas het nut van de individuele onderzoeken (POC's), waarbij POC uitwerkingen gebruikt konden worden in de app.
+Dit was de week voor de vakantie. Ik merkte dat de aandacht de laatste paar dagen niet meer optimaal op het project lag, waardoor de productiviteit gelijdelijk naar beneden ging. Dit is wel een aandachtspuntje voor de komende weken ná de vakantie aangezien er nog veel werk verzet moet worden. 
 
-Als ik dan toch kritisch moet kijken naar mijn eigen functioneren, is dat er nog teveel taken in het scrumboard zijn waarbij er geen "Checklist" voor is. Dus de taak heeft een naam, maar nog verder geen invulling wat hiervoor gedaan moet worden. Hoewel ik grotendeels alle wel ingevulde taken heb ingevuld, wil ik ook meer proberen te delegeren dat andere projectleden deze invulling verzorgen.
+Mochten er dus productiviteits "issues" optreden, dan moet er optijd ingegrepen worden.
  
 3. Wat ga je komende proberen te verbeteren?
 
-Dit sluit eigenlijk aan op punt 2., waarbij is al een verbeterpunt heb beschreven.
+Het is vakantie :) Ik ga proberen om mijn hoofd volledig te legen en niet aan school/werk/project te denken. Dit is een bewuste keuze omdat ik vaak in vakanties doorwerk en vervolgens merk dat ik enigzins oververmoeid raak hierdoor.
 
 
