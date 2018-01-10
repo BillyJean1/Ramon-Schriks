@@ -39,6 +39,23 @@ Naam van de POC 2
 ----------------
 * **hypothese:**  
 
+Voor deze POC moet er een oplossing worden gevonden om bij een IOS applicatie, op de achtergrond de locatie te blijven updaten. Het doel hiervan is, volgens de functionele eisen van de applicatie, om op de achtergrond van de applicatie status de afstand bij te houden tussen de aanbeveling en de huidige locatie. Vervolgens moet er, indien de huidige locatie zich binnen een bepaalde straal van de doelbestemming van de aanbeveling bevindt, een notificatie worden gestuurd dat de doelbestemming is bereikt. Uiteindelijk wordt de aanbeveling gestopt en worden de punten toegekend.
+
 * **testopzet:**  
+
+In de testopzet wordt er verder doorontwikkeld op "Background Fetching". Op dit moment is daar al een beperkte implementatie van. Hierbij wordt momenteel willekeurig een fetch uitgevoerd waarop er wordt gecontrolleerd op of er nieuwe aanbevelingen zijn.
+
+Helaas kan deze implementatie niet gebruikt worden om de afstand continue te blijven meten tussen de huidige locatie en de doelbestemming.
+
+Er moet worden onderzocht op welke manier de locatie van de gebruiker op de achtergrond kan worden geupdate waardoor er vervolgens acties in de applicatie uitgevoerd kunnen worden. Hoewel naast de bestaande "Background Fetch", "Background Location" ook een modus is van de applicatie die in- en uitgeschakeld kan worden, is de implementatie hiervan nog onduidelijk.
  
 * **resultaat:**  
+
+De uiteindelijke oplossing werkt als volgt:
+In de viewController waar momenteel de huidige aanbeveling wordt getoond, wordt achtergrond locatie ingeschakeld. Bij een update van de locatie wordt er vervolgens een methode uitgevoerd die controlleerd of de huidige locatie binnen een bepaalde straal van de doellocatie zit. Indien dit zo is wordt er een notificatie verstuurd, wordt de aanbeveling beindigd en worden de punten die met de aanbeveling behaald konden worden toegekend.
+
+In de screenshot is de pushnotificatie te zien nadat een gebruiker is aangekomen op de doellocatie: [Link](/week7/screenshots/poc_background_location_1.jpeg)
+
+De code (viewController) die de locatie blijft updaten (methodenaam: *checkDestinationIsReached*: [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
+
+De code die de controleert of de huidige locatie zich binnen de straal van de doellocatie bevind (methodenaam: *checkDestinationIsReached*: [Link](/week7/poc/poc_Background_location_fetch/RecommendationService.swift)
